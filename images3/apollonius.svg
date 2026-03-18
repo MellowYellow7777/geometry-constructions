@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 100 100"
+   id="svg5242"
+   sodipodi:docname="apollonius.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata5248">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5246" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1451"
+     inkscape:window-height="959"
+     id="namedview5244"
+     showgrid="false"
+     inkscape:zoom="7.35"
+     inkscape:cx="53.537415"
+     inkscape:cy="53.869227"
+     inkscape:window-x="261"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5242"
+     inkscape:document-rotation="0" />
+  <circle
+     cx="70.163269"
+     cy="30.653061"
+     fill="none"
+     stroke="#388c46"
+     stroke-linecap="round"
+     stroke-width="4"
+     id="circle5238"
+     style="stroke:#c0c0c0;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+     r="21.5" />
+  <circle
+     cx="55.02721"
+     cy="62.102039"
+     fill="none"
+     stroke="#388c46"
+     stroke-linecap="round"
+     stroke-width="4"
+     id="circle8097"
+     style="stroke:#c0c0c0;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+     r="6.5" />
+  <ellipse
+     cx="28.108843"
+     cy="50.775517"
+     fill="none"
+     stroke="#388c46"
+     stroke-linecap="round"
+     stroke-width="4"
+     id="circle8878"
+     style="stroke:#c0c0c0;stroke-width:4.99999;stroke-miterlimit:4;stroke-dasharray:none"
+     rx="15.5"
+     ry="15.500005" />
+  <circle
+     cx="50"
+     cy="50"
+     fill="none"
+     stroke="#388c46"
+     stroke-linecap="round"
+     stroke-width="4"
+     id="circle8880"
+     style="stroke:#ff8000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+     r="6.5" />
+</svg>

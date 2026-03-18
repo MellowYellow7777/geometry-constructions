@@ -1,0 +1,35 @@
+<svg version="1.1" viewBox="0 0 11 12" xmlns="http://www.w3.org/2000/svg">
+  <rect y="11" width="1" height="1" fill="#6e6e6f"/>
+  <rect y="10" width="1" height="1" fill="#b6b6b7"/>
+  <rect x="1" y="11" width="1" height="1" fill="#b6b6b7"/>
+  <rect x="5" width="1" height="1" fill="#949292"/>
+  <rect x="5" y="1" width="1" height="1" fill="#cecece"/>
+  <rect x="3" y="2" width="1" height="1" fill="#989696"/>
+  <rect x="6" y="1" width="1" height="1" fill="#a5a3a3"/>
+  <rect x="4" y="1" width="1" height="1" fill="#a4a2a2"/>
+  <rect x="2" y="3" width="1" height="1" fill="#848282"/>
+  <rect x="1" y="4" width="1" height="1" fill="#767474"/>
+  <rect y="5" width="1" height="1" fill="#514e4e"/>
+  <rect y="6" width="1" height="1" fill="#aeadad"/>
+  <rect x="1" y="5" width="1" height="1" fill="#cac9c9"/>
+  <rect x="2" y="4" width="1" height="1" fill="#c9c9c9"/>
+  <rect x="3" y="3" width="1" height="1" fill="#c9c9c9"/>
+  <rect x="4" y="2" width="1" height="1" fill="#cacaca"/>
+  <rect x="6" y="2" width="1" height="1" fill="#cacaca"/>
+  <rect x="7" y="3" width="1" height="1" fill="#c9c9c9"/>
+  <rect x="8" y="4" width="1" height="1" fill="#c9c9c9"/>
+  <rect x="9" y="5" width="1" height="1" fill="#c8c8c9"/>
+  <rect x="10" y="6" width="1" height="1" fill="#aeadad"/>
+  <rect x="10" y="5" width="1" height="1" fill="#514f4f"/>
+  <rect x="9" y="4" width="1" height="1" fill="#777575"/>
+  <rect x="8" y="3" width="1" height="1" fill="#848282"/>
+  <rect x="7" y="2" width="1" height="1" fill="#989696"/>
+  <rect x="10" y="11" width="1" height="1" fill="#6e6e6f"/>
+  <rect x="10" y="10" width="1" height="1" fill="#b6b6b7"/>
+  <rect x="9" y="11" width="1" height="1" fill="#b6b6b7"/>
+  <rect x="10" y="8" width="1" height="1" fill="#cacacb"/>
+  <rect x="10" y="7" width="1" height="1" fill="#c8c8c9"/>
+  <rect y="8" width="1" height="1" fill="#cacacb"/>
+  <rect y="7" width="1" height="1" fill="#c8c8c9"/>
+  <path d="m2 12v-1h-1v-1h-1v-1h1v-3h1v-1h1v-1h1v-1h1v-1h1v1h1v1h1v1h1v1h1v3h1v1h-0.9l-0.1 1h-1v1z" fill="#cbcacb"/>
+</svg>

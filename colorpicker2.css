@@ -1,0 +1,74 @@
+body {
+  background-color: #2D2D2E;
+}
+
+.color-picker {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+}
+
+.color-picker > .input-wrapper {
+  display: flex;
+  align-items: center;
+  height: 20px;
+  width: 305px;
+  justify-content: space-around;
+}
+
+.color-picker > .gap {
+  height: 20px;
+}
+
+.color-picker > .input-wrapper > .input-slider-wrapper {
+  width: 252px;
+  height: 13px;
+  position: relative;
+  box-sizing: border-box;
+  border: 1px solid #616162;
+  border-radius: 4px;
+}
+
+.color-picker > .input-wrapper > .input-slider-wrapper > .input-canvas {
+  border-radius: 2px;
+}
+
+.color-picker > .input-wrapper > .input-slider-wrapper > .input-slider-thumb {
+  width: 10px;
+  height: 11px;
+  position: absolute;
+  top: 6px;
+  left: -5px;
+  z-index: 1;
+  overflow: hidden;
+}
+
+.color-picker > .input-wrapper > .input-slider-wrapper > .input-slider-thumb > div {
+  background-color: gray;
+  width: 10px;
+  height: 10px;
+  rotate: 45deg;
+  scale: 2;
+  translate: 0px 9px;
+}
+
+.color-picker > .input-wrapper > .input-slider-wrapper > .input-canvas {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+.color-picker > .input-wrapper > .input-slider-wrapper > .input-slider {
+  width: 250px;
+  height: 20px;
+  margin: 0px;
+  opacity: 0;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 2;
+}
+
+.color-picker > .input-wrapper > .input-number {
+  width: 30px;
+}
